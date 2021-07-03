@@ -45,4 +45,26 @@ p{
     background-repeat: no-repeat;
 
 }
+.middel-banner{
+    margin-top: 250px;
+}
+
+.first-blog1{
+    padding-left: 50px;
+    
+} 
+    
+#img-id img{
+    width: 100%;
+} 
+.fb-class{
+    text-decoration: none;
+    background-image: linear-gradient(red ,yellow);
+    padding: 20px 50px;
+    border-radius: 15px;
+    color: white;
+    font-weight: 800;
+    
+} 
+
 
