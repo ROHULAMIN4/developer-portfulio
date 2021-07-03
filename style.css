@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif,'poppins';
+
+}
+h1{
+    font-size: 50px;
+    line-height: 50px;
+}
+h3{
+    font-weight: bold;
+    color: red;
+}
+span{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.first-blog{
+    padding-left: 5%;
+    width: 80%;
+}
+img{
+    width: 50%;
+}
+p{
+    text-align: justify;
+    width: 70%;
+    line-height: 34px;
+    margin-bottom: 30px;
+}
+.link-class{
+  text-decoration: none;
+  background-image: linear-gradient(orange,tomato);
+  padding: 12px 40px;
+  border-radius: 10px;
+  color: wheat;
+  font-weight: 800;
+
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
